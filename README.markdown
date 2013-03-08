@@ -4,7 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/railsbridge/bridge_troll.png)](http://travis-ci.org/railsbridge/bridge_troll)
  
 
-This is a Rails app that helps RailsBridge workshop organizers plan their events. We also use it as a teaching tool and an open-source community testbed. 
+This is a Rails app that helps RailsBridge workshop organizers plan their events. We also use it as a teaching tool and an open-source community testbed.  Ok but where is the help for those who are new to ruby, and need help to get started?
  
 
 The feature set is currently pretty minimal - definitely *pre-alpha*. Eventually, we'd like to fill out the organizer feature set, initially for volunteers to sign up and help organizers know who is coming and what they can do, later to incorporate ways for organizers follow up with students and volunteers.
